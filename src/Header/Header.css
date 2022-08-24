@@ -1,0 +1,18 @@
+.artice-left-header{
+    margin-top: 10% !important;
+}
+.backgroundheader{
+    position: absolute;
+    z-index: -1;
+    width: 98vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.img-left-header{
+    width: 100%;
+    height:auto;
+    margin-top: 20%;
+}

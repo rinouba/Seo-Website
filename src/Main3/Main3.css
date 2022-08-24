@@ -1,0 +1,11 @@
+.card-main3{
+    height: 200px;
+}
+.imagebackgroundmain3{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    right: 20%;
+    height: 100%;
+    left: 0;
+}

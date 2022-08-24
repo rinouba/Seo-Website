@@ -1,0 +1,15 @@
+body{
+    background-color: #f7f8f9 !important;
+}
+a:link, a:visited {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a:link:hover, a:visited:hover {
+    color: rgb(59, 58, 58);
+  }
+  a:link:active, a:visited:active {
+    color: rgb(59, 58, 58);
+  }

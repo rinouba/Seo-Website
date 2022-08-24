@@ -1,0 +1,13 @@
+.main2{
+    margin-top: 10%;
+}
+.col-right{
+    margin-top: 8%;
+}
+
+.image-left-main2{
+    position: absolute;
+    top: 15%;
+    right:  0%;
+    width: 100vw;
+}

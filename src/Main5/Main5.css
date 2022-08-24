@@ -1,0 +1,15 @@
+.text-main5{
+    margin-top: 8%;
+}
+.text-main5-2{
+margin-top: 5%;
+}
+.main5{
+    position: absolute;
+    left: 0;
+    right: 40%;
+    top: 0;
+    bottom: 0;
+    width: 98%;
+    height: 100vh;
+}
